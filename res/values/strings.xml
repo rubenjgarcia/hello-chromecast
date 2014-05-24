@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_id">XXXXXXXX</string>
+    <string name="app_name">HelloChromecast</string>
+    <string name="media_route_menu_title">Reproducir en&#8230;</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="namespace">urn:x-cast:es.rubenjgarcia.hellochromecast</string>
+    <string name="instrucciones">Escribe para enviar a ChromeCast</string>
+
+</resources>
